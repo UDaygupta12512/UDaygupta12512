@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">Hello World!!   <br>I am a 3rd year B.Tech student majoring in Computer Science and Engineering at MIET in Meerut. I have a keen interest in coding and problem-solving, and I am proficient in both DSA and Development. I often participate in competitive coding contests. I continuously seek opportunities to expand my knowledge and stay current with the latest advancements in the field. With my strong technical skills, collaborative mindset, and dedication to excellence, I am confident in my ability to contribute to the success of any software development team. I enjoy learning new technologies and applying them in creative and practical ways. 💻<br>Please contact me at udayapril22@gmail.com regarding work opportunities, collaboration, or to discuss.</p>
+<p align="left">Hello World!!   <br>I am a 4 th year B.Tech student majoring in Computer Science and Engineering at MIET in Meerut. I have a keen interest in coding and problem-solving, and I am proficient in both DSA and Development. I often participate in competitive coding contests. I continuously seek opportunities to expand my knowledge and stay current with the latest advancements in the field. With my strong technical skills, collaborative mindset, and dedication to excellence, I am confident in my ability to contribute to the success of any software development team. I enjoy learning new technologies and applying them in creative and practical ways. 💻<br>Please contact me at udayapril22@gmail.com regarding work opportunities, collaboration, or to discuss.</p>
 
 ###
 

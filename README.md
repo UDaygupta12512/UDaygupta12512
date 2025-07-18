@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uday Gupta ... and I'm a  B-Tech 3rd year CSE Student from MIET.</h2>
+<h2 align="left">Hi 👋! My name is Uday Gupta ... and I'm a  B-Tech   4 th year CSE Student from MIET.</h2>
 
 ###
 

@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://https://file:///C:/Users/udaya/Downloads/github-contribution-grid-snake2.svg" alt="Snake animation" />
 
 ###
 

@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UDaygupta12512/UDaygupta12512/output/snake.svg" alt="Snake animation" />
+<img src="https://https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 

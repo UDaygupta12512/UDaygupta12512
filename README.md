@@ -192,7 +192,7 @@
   <img
   src="https://github.com/user-attachments/assets/8aeb1a1d-b4b2-420e-a711-d871d7aade50"
   alt="Weather App Screenshot"
-  width="502"
+  width="302"
   height="350"
 />
 

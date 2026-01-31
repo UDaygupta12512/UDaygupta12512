@@ -7,12 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UDaygupta12512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-## 📊 Project Stats
+<p align="center">
+  <img src="https://img.shields.io/github/stars/UDaygupta12512/weather-app?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/UDaygupta12512/weather-app?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/UDaygupta12512/weather-app?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/UDaygupta12512/weather-app?style=for-the-badge" />
+</p>
 
-- ⭐ Stars: View on GitHub
-- 🍴 Forks: Community supported
-- 🛠️ Active development
-- 🌍 Open-source project
 
 ###
 

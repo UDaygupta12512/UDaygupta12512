@@ -7,9 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UDaygupta12512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UDaygupta12512&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDaygupta12512&layout=compact&theme=dracula)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/API-Weather-green?style=flat-square" />
+</p>
 
 ###
 

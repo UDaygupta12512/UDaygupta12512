@@ -175,7 +175,8 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/21D4FD/artificial-intelligence.png" width="30"/>
   <img src="https://img.icons8.com/fluency/48/FFD200/source-code.png" width="30"/>
-  <img src="https://img.icons8.com/color/48/FF5A5F/game-controller.png" width="30"/>
+  <img src="<img width="502" height="350" alt="image" src="https://github.com/user-attachments/assets/8aeb1a1d-b4b2-420e-a711-d871d7aade50" />
+ width="30"/>
 </p>
 
 - 🧑‍🎨 Love exploring generative AI projects  

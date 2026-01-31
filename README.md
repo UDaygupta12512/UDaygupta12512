@@ -7,12 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UDaygupta12512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/API-Weather-green?style=flat-square" />
-</p>
+## 📊 Project Stats
+
+- ⭐ Stars: View on GitHub
+- 🍴 Forks: Community supported
+- 🛠️ Active development
+- 🌍 Open-source project
 
 ###
 

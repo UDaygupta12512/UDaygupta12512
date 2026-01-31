@@ -175,7 +175,13 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/21D4FD/artificial-intelligence.png" width="30"/>
   <img src="https://img.icons8.com/fluency/48/FFD200/source-code.png" width="30"/>
-  <img src="https://img width="502" height="350" alt="image" src="https://github.com/user-attachments/assets/8aeb1a1d-b4b2-420e-a711-d871d7aade50" width="30"/>
+  <img
+  src="https://github.com/user-attachments/assets/8aeb1a1d-b4b2-420e-a711-d871d7aade50"
+  alt="Weather App Screenshot"
+  width="502"
+  height="350"
+/>
+
 </p>
 
 - 🧑‍🎨 Love exploring generative AI projects  

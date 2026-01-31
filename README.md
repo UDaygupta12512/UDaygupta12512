@@ -160,8 +160,9 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/UDaygupta12512/kiddo-tale-spark">
-        <img src="https://img.icons8.com/?size=100&id=8911&format=png&color=000000" width="52"/><br>
-        <b>Kiddo Tale Spark</b>
+       <img src="https://img.icons8.com/ios-filled/50/book.png" width="52"/><br>
+<b>Kiddo Tale Spark</b>
+
       </a>
       <br/>
       <sub>

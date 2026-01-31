@@ -1,6 +1,12 @@
 <h2 align="left">Hi 👋! I’m Uday Gupta, a 4th-year B.Tech CSE student at MIET who enjoys building and solving problems with code.</h2>
 
 ###
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/API-Weather-green?style=flat-square" />
+</p>
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UDaygupta12512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

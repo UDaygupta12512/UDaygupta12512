@@ -162,13 +162,13 @@
       <a href="https://github.com/UDaygupta12512/kiddo-tale-spark">
        <img src="https://img.icons8.com/ios-filled/50/book.png" width="52"/><br>
 <b>Kiddo Tale Spark</b>
-
       </a>
-      <br/>
-      <sub>
-        <i>Generates interactive AI children’s stories with DALL·E and GPT</i>
-      </sub>
-    </td>
+    <br/>
+  <sub>
+            <i>Generates interactive AI children’s stories with DALL·E and GPT</i>
+
+  </sub>
+  </td>
   </tr>
 </table>
 

@@ -1,231 +1,542 @@
-<h2 align="left">Hi 👋! I’m Uday Gupta, a 4th-year B.Tech CSE student at MIET who enjoys building and solving problems with code.</h2>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   ANIMATED HEADER                           -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-###
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/API-Weather-green?style=flat-square" />
-</p>
+<div align="center">
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UDaygupta12512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UDaygupta12512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Uday%20Gupta&fontSize=90&fontColor=58A6FF&color=0,0D1117,30,0D2137,70,0D1117,100,0D1117&stroke=58A6FF&strokeWidth=1.5&animation=twinkling&descAlignY=68&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cloud%20Architect&descSize=20&descColor=8B949E" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/UDaygupta12512/weather-app?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/UDaygupta12512/weather-app?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/UDaygupta12512/weather-app?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/UDaygupta12512/weather-app?style=for-the-badge" />
-</p>
+<!-- Animated typing -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=750&lines=Shipping+AI-powered+SaaS+products+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+OpenAI+%7C+AWS+%7C+Azure+%E2%9A%A1;Minor+in+AI+%40+IIT+Ropar+%7C+CSE+%40+MIET+%F0%9F%8E%93;1st+%40+IEEE+Binary+Battle+%7C+Top+50+SIH+2025+%F0%9F%8F%86;GSSoC+%2725+%7C+SWOC+%2725+%7C+Hacktoberfest+%2724+%F0%9F%8C%8D;Building+tools+that+real+users+love+%E2%9C%A8" alt="Typing SVG"/>
+</a>
 
+<br/><br/>
 
-###
+<img src="https://img.shields.io/badge/Open%20To%20Work-39D353?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=UDaygupta12512&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/UDaygupta12512?label=Followers&style=for-the-badge&color=8B949E&labelColor=0D1117&logo=github"/>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<p align="left">Hello World!!   <br>I am a 4 th year B.Tech student majoring in Computer Science and Engineering at MIET in Meerut. I have a keen interest in coding and problem-solving, and I am proficient in both DSA and Development. I often participate in competitive coding contests. I continuously seek opportunities to expand my knowledge and stay current with the latest advancements in the field. With my strong technical skills, collaborative mindset, and dedication to excellence, I am confident in my ability to contribute to the success of any software development team. I enjoy learning new technologies and applying them in creative and practical ways. 💻<br>Please contact me at udayapril22@gmail.com regarding work opportunities, collaboration, or to discuss.</p>
-
-###
-
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-<!-- ===================== PROFILE CARD & TAGLINE ===================== -->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Science%20Engineer%20@%20MIET-21D4FD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Minor%20in%20AI%20@%20IIT%20Ropar-F7971E?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-</p>
-<p align="center">
-  <b>
-    <span style="color:#FFD200;">✨ AI Dream Builder</span> crafting tools that turn ideas into reality.<br>
-    <span style="color:#21D4FD;">🚀 Exploring next-gen tech</span>, one project at a time.
-  </b>
-</p>
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
-<p align="center">
-  <a href="https://linkedin.com/in/uday-gupta-7b0887295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/UDaygupta12512"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/222004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/uday_gupta123"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://codolio.com/profile/Udaygupta12"><img src="https://img.shields.io/badge/Codolio-1B1B1B?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/udayapril22"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
 
 ---
 
-<h2 align="center"><span style="color:#F7971E;">🙋‍♂️ About Me</span></h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML%20Explorer-FFD200?style=flat-square&logo=ai&logoColor=black">
-  <img src="https://img.shields.io/badge/Frontend%20Enthusiast-B721FF?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Product%20Builder-FF5A5F?style=flat-square&logo=producthunt&logoColor=white">
-</p>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   SOCIAL LINKS                              -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-- 🎓 <b>B.Tech CSE @ MIET (2022–2026) | Minor in AI @ IIT Ropar</b>
-- 🤖 <b>AI & ML Explorer | Frontend Enthusiast | Product Builder</b>
-- 🌱 Currently learning **Cloud, Generative AI, and Advanced Web Apps**
-- 💬 Ask me about **Python, React, AI, or anything tech!**
-- 🛠️ Fun fact: I love building tools that turn ideas into real products!
+<div align="center">
 
----
+<a href="https://linkedin.com/in/UDaygupta12512"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/udaygupta22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/222004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/uday_gupta123"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/udayapril22"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="mailto:udayapril22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<h2 align="center"><img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/> Tech Stack & Tools</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,react,redux,nextjs,nodejs,tailwind,flask,mongodb,firebase,git,github,linux,vscode,androidstudio,intellij" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD200?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-21D4FD?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-B721FF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF5A5F?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-43E97B?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-38F9D7?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-7F53AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-65799B?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-181717?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-F7971E?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-21D4FD?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-FFD200?style=for-the-badge&logo=flask&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FF5A5F?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-<h2 align="center"><img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/F7971E/external-project-web-development-flatart-icons-outline-flatarticons.png" width="30"/> Flagship Projects</h2>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                    ABOUT ME                                 -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/UDaygupta12512/mind-to-game-forge">
-        <img src="https://img.icons8.com/ios-filled/70/21D4FD/idea.png" width="52"/><br>
-        <b>Dream Builder</b>
-      </a>
-      <br/>
-      <sub>
-        <i>AI tool that converts game ideas into production-ready design docs using GPT-4.5</i>
-      </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/UDaygupta12512/blogcast-audio-forge">
-        <img src="https://img.icons8.com/ios-filled/70/FF5A5F/microphone.png" width="52"/><br>
-        <b>AI Podcast Generator</b>
-      </a>
-      <br/>
-      <sub>
-        <i>Creates full podcast episodes using GPT-4.5 + ElevenLabs for lifelike voices</i>
-      </sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/UDaygupta12512/kiddo-tale-spark">
-       <img src="https://img.icons8.com/ios-filled/50/book.png" width="52"/><br>
-<b>Kiddo Tale Spark</b>
-      </a>
-    <br/>
-  <sub>
-            <i>Generates interactive AI children’s stories with DALL·E and GPT</i>
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-  </sub>
-  </td>
-  </tr>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> `$ whoami`
+
+```ts
+const uday: Developer = {
+  name:       "Uday Gupta",
+  role:       "Full Stack Developer (MERN) + AI Engineer",
+  education:  "B.Tech CSE @ MIET '26 | Minor in AI @ IIT Ropar",
+  location:   "Modinagar, UP, India 🇮🇳",
+
+  shipped: [
+    "Mindsphere AI   → 30+ users · ↓60% content time",
+    "Magical Stories → 50+ users · <0.5s API response",
+    "CookAssistant   → 50+ users · EN + HI bilingual",
+  ],
+
+  certifications: [
+    "☁️  AWS Certified Cloud Practitioner",
+    "🔷  Azure Fundamentals AZ-900",
+    "🤖  Azure AI Fundamentals AI-900",
+    "⚡  Salesforce AI Associate",
+  ],
+
+  funFact:  "I turn coffee ☕ into AI-powered SaaS 🚀",
+  openTo:   "SDE | Full Stack | AI Engineer roles",
+  contact:  "udayapril22@gmail.com",
+};
+```
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  QUICK STATS STRIP                          -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp; **At a glance**
+
+|  🏆 Achievements  |  ⚡ Competitive  |  🚀 Products  |  🎓 Education  |
+|:-----------------:|:---------------:|:-------------:|:--------------:|
+| 🥇 1st · IEEE Binary Battle 2025 | 400+ DSA Problems | 3 AI SaaS Apps Shipped | IIT Ropar AI Minor |
+| 🎯 Top 50 · SIH 2025 | ⭐⭐⭐⭐ HackerRank C++ | 100+ Real Users | MIET CSE · 8.2 CGPA |
+| 🌍 GSSoC '25 · SWOC '25 · Hacktoberfest '24 | ⭐⭐⭐ CodeChef | PropgrowthX Internship | 5 Cloud & AI Certs |
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                    TECH STACK                               -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"/> `$ cat tech_stack.json`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,tailwind,mongodb,mysql,firebase,flask,git,github,aws,azure,vscode,postman&perline=10&theme=dark"/>
+
+</div>
+
+<br/>
+
+<details open>
+<summary><b>🖥️ Languages</b></summary>
+<br>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚛️ Frontend</b></summary>
+<br>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔧 Backend & Databases</b></summary>
+<br>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-4-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🤖 AI / ML & Cloud</b></summary>
+<br>
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-GPT4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-2.5_Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL·E-3-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-AZ900+AI900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-39D353?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  FLAGSHIP PROJECTS                          -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> `$ ls -la ./projects`
+
+---
+
+<!-- PROJECT 1 -->
+<div align="center">
+
+### 🧠 Mindsphere AI
+#### *AI SaaS Platform · Production · 30+ Active Users*
+
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="420" style="border-radius:12px; margin: 8px 0;"/>
+
+> Auto-generates structured micro-courses — **notes, quizzes & flashcards** — from YouTube videos & PDFs via OpenAI API.
+> Serving **30+ active users** · Content creation time **↓60%** · Manual workload **↓45%**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,tailwind&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-GPT4-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/30%2B_Users-Live-39D353?style=flat-square"/>
+
+<br/><br/>
+<a href="https://github.com/UDaygupta12512">
+  <img src="https://img.shields.io/badge/View_on_GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- PROJECT 2 -->
+<div align="center">
+
+### ✨ Magical AI Stories
+#### *Interactive LLM Storytelling · 50+ Beta Users · `<0.5s` API Response*
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="420" style="border-radius:12px; margin: 8px 0;"/>
+
+> LLM-powered branching narratives with **real-time DALL·E image generation** synced to story state.
+> **50+ beta users** · `<0.5s` response time · Story throughput **↑50%**
+
+<img src="https://skillicons.dev/icons?i=react,python,flask,tailwind&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-GPT-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/DALL·E-3-6E40C9?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-Integration-FFA116?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-Expert-8B5CF6?style=flat-square"/>
+
+<br/><br/>
+<a href="https://github.com/UDaygupta12512">
+  <img src="https://img.shields.io/badge/View_on_GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- PROJECT 3 -->
+<div align="center">
+
+### 🍳 CookAssistant
+#### *AI Cooking Platform · 50+ Users · 🇮🇳 English + Hindi*
+
+<img src="https://media.giphy.com/media/fxZ7cJGnFbBjydyIB9/giphy.gif" width="420" style="border-radius:12px; margin: 8px 0;"/>
+
+> AI recipe generation, ingredient image scanning, smart pantry tracking & **voice-controlled** step-by-step cooking guides.
+> Recipe research **↓70%** · Prep effort **↓60%** · Bilingual EN + HI interface
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gemini_AI-2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Voice_Control-Enabled-39D353?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bilingual-EN+HI-FF9900?style=flat-square"/>
+
+<br/><br/>
+<a href="https://github.com/UDaygupta12512">
+  <img src="https://img.shields.io/badge/View_on_GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- PROJECT 4 -->
+<div align="center">
+
+### 🏢 PropgrowthX — Real Estate SaaS
+#### *Full Stack Developer Intern · Oct 2025 – Feb 2026*
+
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="420" style="border-radius:12px; margin: 8px 0;"/>
+
+> Built **15+ RESTful APIs** with JWT auth & RBAC. Led Agile/Scrum for a 4-person team. Delivered **3 milestones** on time.
+> Post-release defects **↓25%** · User-reported bugs **↓30%** · Zero critical merge conflicts
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts,git&theme=dark"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JWT-RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile-Scrum-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Production-SaaS-FF6B6B?style=flat-square"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   CERTIFICATIONS                            -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"/> `$ cat certifications.txt`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" width="170"/><br/><br/>
+  <b>Cloud Practitioner</b><br/>
+  <sub>☁️ Amazon Web Services</sub><br/>
+  <sub><i>Aug 2025</i></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" width="170"/><br/><br/>
+  <b>Fundamentals AZ-900</b><br/>
+  <sub>🔷 Microsoft</sub><br/>
+  <sub><i>Jul 2025</i></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" width="170"/><br/><br/>
+  <b>AI Fundamentals AI-900</b><br/>
+  <sub>🤖 Microsoft</sub><br/>
+  <sub><i>Apr 2025</i></sub>
+</td>
+<td align="center" width="25%">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" width="170"/><br/><br/>
+  <b>AI Associate</b><br/>
+  <sub>⚡ Salesforce</sub><br/>
+  <sub><i>Mar 2025</i></sub>
+</td>
+</tr>
 </table>
 
----
+</div>
 
-<h2 align="center"><img src="https://img.icons8.com/color/48/000000/prize.png" width="32"/> Certifications</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-21D4FD?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Foundations%20Associate-F7971E?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Computing-FFD200?style=for-the-badge&logo=amazonaws&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cisco%20Data%20Science-43E97B?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/160--Day%20DSA%20Challenge-B721FF?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-<h2 align="center"><img src="https://img.icons8.com/doodle/48/000000/confetti.png" width="32"/> Fun Facts & Hobbies</h2>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                   GITHUB STATS                              -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/21D4FD/artificial-intelligence.png" width="30"/>
-  <img src="https://img.icons8.com/fluency/48/FFD200/source-code.png" width="30"/>
-  <img
-  src="https://github.com/user-attachments/assets/8aeb1a1d-b4b2-420e-a711-d871d7aade50"
-  alt="Weather App Screenshot"
-  width="302"
-  height="350"
-/>
+## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="35"/> `$ git log --oneline --stat`
 
-</p>
+<div align="center">
 
-- 🧑‍🎨 Love exploring generative AI projects  
-- 💻 Enjoy building interactive frontends with React  
-- 🚀 Always hunting creative ways to turn ideas into products  
+<img src="https://github-readme-stats.vercel.app/api?username=UDaygupta12512&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=39D353&text_color=8B949E&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github" height="185"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=UDaygupta12512&locale=en&hide_title=false&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" height="185"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=UDaygupta12512&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=39D353&background=0D1117" height="185"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UDaygupta12512&theme=github-compact&hide_border=true&custom_title=📈+Contribution+Graph&line=58A6FF&point=39D353&color=8B949E&bg_color=0D1117&area=true&area_color=1A2744" width="96%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
-<h2 align="center"><img src="https://img.icons8.com/color/48/000000/combo-chart--v1.png" width="30"/> My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UDaygupta12512&show_icons=true&theme=radical&hide_border=true&title_color=F7971E&icon_color=FFD200" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=UDaygupta12512&theme=radical&hide_border=true&ring=21D4FD&fire=FF5A5F" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UDaygupta12512&theme=react-dark&hide_border=true&custom_title=My%20Contribution%20Graph&line=FFD200&point=21D4FD&color=43E97B" />
-</p>
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--               COMPETITIVE PROGRAMMING                       -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UDaygupta12512&label=Profile+Views&color=FFD200&style=flat" alt="UDaygupta12512" />
-</p>
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"/> `$ ./competitive_profile.sh`
 
-<!-- ===================== LOWER SECTION: SNAKE ANIMATION ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-<!-- Animated Footer Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,F7971E,FFD200,21D4FD,B721FF,FF5A5F,43E97B,38F9D7,7F53AC,65799B" alt="Footer Divider"/>
-</p>
+<br/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/222004?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=12)](https://leetcode.com/u/222004/)
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://leetcode.com/u/222004/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/><br/><br/>
+    <b>400+ Problems</b>
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.codechef.com/users/uday_gupta123">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/><br/><br/>
+    <b>⭐⭐⭐ 3-Star</b>
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br/><br/>
+    <b>⭐⭐⭐⭐ C++</b>
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.geeksforgeeks.org/user/udayapril22">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/><br/><br/>
+    <b>160-Day DSA 🔥</b>
+  </a>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--               OPEN SOURCE CONTRIBUTIONS                     -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"/> `$ git log --author="Uday" --open-source`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="120"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GSSoC'25-GirlScript_Summer_of_Code-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SWOC'25-Script_Winter_of_Code-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Hacktoberfest'24-FF6B6B?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
+
+```
+GSSoC 2025 (GirlScript Summer of Code)  ──── Bug fixes · Feature additions · Documentation
+SWOC 2025  (Script Winter of Code)      ──── Bug fixes · Feature additions · Documentation
+Hacktoberfest 2024                      ──── PRs merged · Contributions across open-source repos
+```
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  ACHIEVEMENTS                               -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/l3vR85wkYmnLan7y0/giphy.gif" width="35"/> `$ history | grep achievements`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif" width="140"/>
+
+</div>
+
+```bash
+$ echo "───── ACHIEVEMENTS ─────"
+
+🥇  [2025]  1st Place   →  Binary Battle, IEEE Day 2025
+🎯  [2025]  Top 50      →  Smart India Hackathon (SIH) 2025
+⭐  [2025]  400+        →  DSA Problems (LeetCode + CodeChef)
+🌟  [2025]  4-Star      →  HackerRank C++
+🔥  [2025]  3-Star      →  CodeChef Rating
+🤝  [2025]  Internship  →  Full Stack Dev @ PropgrowthX Pvt. Ltd.
+🎓  [2024]  AI Minor    →  Indian Institute of Technology, Ropar
+🌍  [2024]  OSS         →  Hacktoberfest 2024 Contributor
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                  SNAKE ANIMATION                            -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="35"/> `$ watch -n 1 git contributions`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--                    CONNECT                                  -->
+<!-- ████████████████████████████████████████████████████████████ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"/> `$ ping uday --connect`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+
+> ### 💬 Open to **SDE · Full Stack · AI Engineer** roles
+> Got a project, collaboration, or opportunity? Let's build something awesome.
+
+<a href="mailto:udayapril22@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/UDaygupta12512">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/View_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0,0D1117,40,0D2137,100,0D1117&stroke=58A6FF&strokeWidth=1.5&animation=twinkling" width="100%"/>
+
+*⚡ "The best way to predict the future is to build it." — Alan Kay*
+
+<img src="https://komarev.com/ghpvc/?username=UDaygupta12512&label=Profile+Views&color=58A6FF&style=flat"/>
+
+</div>

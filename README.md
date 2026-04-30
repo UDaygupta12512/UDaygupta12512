@@ -1,21 +1,30 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HEADER BANNER                   -->
+<!--               TOP WAVE + GLOWING HEADER                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0,0D1117,60,0A1628,100,0D1117&section=header&stroke=58A6FF&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Uday%20Gupta&fontSize=90&fontColor=58A6FF&color=0,0D1117,30,0D2137,70,0D1117,100,0D1117&stroke=58A6FF&strokeWidth=1.5&animation=twinkling&descAlignY=68&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cloud%20Architect&descSize=20&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Uday%20Gupta&fontSize=95&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=%E2%9C%A6%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect%20%E2%9C%A6&descSize=18&descAlignY=80&descColor=8B949E" width="100%"/>
 
-<!-- Typing SVG — fully URL-safe, no raw emojis -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=39D353&center=true&vCenter=true&repeat=true&width=800&lines=Shipping+AI-powered+SaaS+products+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+OpenAI+%7C+AWS+%7C+Azure+%E2%9A%A1;Minor+in+AI+%40+IIT+Ropar+%7C+CSE+%40+MIET+%F0%9F%8E%93;1st+Place+%40+IEEE+Binary+Battle+2025+%F0%9F%8F%86;GSSoC+2025+%7C+SWOC+2025+%7C+Hacktoberfest+2024;Building+tools+that+100%2B+real+users+love+%E2%9C%A8" alt="Typing SVG"/>
+<!-- Typing SVG — fully URL-safe -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=39D353&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Shipping+AI-powered+SaaS+products+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+OpenAI+%7C+AWS+%7C+Azure+%E2%9A%A1;Minor+in+AI+%40+IIT+Ropar+%7C+CSE+%40+MIET+%F0%9F%8E%93;1st+Place+%40+IEEE+Binary+Battle+2025+%F0%9F%8F%86;GSSoC+2025+%7C+SWOC+2025+%7C+Hacktoberfest+2024;100%2B+real+users+across+3+AI+SaaS+platforms+%E2%9C%A8;Open+to+SDE+%7C+Full+Stack+%7C+AI+Engineer+Roles" alt="Typing SVG"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20To%20Work-39D353?style=for-the-badge&labelColor=0D1117"/>
+<!-- Status badges -->
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-39D353?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0D1117"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Location-Modinagar%2C%20UP%20India-FF9900?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-58A6FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=UDaygupta12512&label=Profile+Views&color=58A6FF&style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/UDaygupta12512?label=Followers&style=for-the-badge&color=8B949E&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/followers/UDaygupta12512?label=GitHub+Followers&style=for-the-badge&color=8B949E&labelColor=0D1117&logo=github"/>
 
 </div>
 
@@ -27,12 +36,24 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/UDaygupta12512"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/udaygupta22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/u/222004/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/uday_gupta123"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/udayapril22"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="mailto:udayapril22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/UDaygupta12512">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/udaygupta22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/222004/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/uday_gupta123">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/udayapril22">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<a href="mailto:udayapril22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -43,41 +64,175 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
+<!--           WHOAMI — TWO COLUMN WITH GIF                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="38"/> `$ whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"/> `$ whoami`
 
 ```typescript
 const uday: Developer = {
-  name       : "Uday Gupta",
-  role       : "Full Stack Developer (MERN) + AI Engineer",
-  education  : "B.Tech CSE @ MIET '26 | Minor in AI @ IIT Ropar",
-  location   : "Modinagar, UP, India 🇮🇳",
-
+  name    : "Uday Gupta",
+  role    : [
+    "Full Stack Developer (MERN)",
+    "AI Engineer",
+    "Cloud Architect",
+  ],
+  education : {
+    degree : "B.Tech CSE @ MIET  (2022-2026)",
+    minor  : "AI @ IIT Ropar  (Nov 2024)",
+    cgpa   : "8.2 / 10",
+  },
   shipped: [
-    "🧠 Mindsphere AI   → 30+ users  · ↓60% content creation time",
-    "✨ Magical Stories → 50+ users  · <0.5s API response time",
-    "🍳 CookAssistant   → 50+ users  · EN + HI bilingual platform",
+    "Mindsphere AI   -> 30+ users, -60% content time",
+    "Magical Stories -> 50+ users, <0.5s API response",
+    "CookAssistant   -> 50+ users, EN + HI bilingual",
   ],
-
-  certifications: [
-    "☁️  AWS Certified Cloud Practitioner  (Aug 2025)",
-    "🔷  Azure Fundamentals  AZ-900        (Jul 2025)",
-    "🤖  Azure AI Fundamentals  AI-900     (Apr 2025)",
-    "⚡  Salesforce AI Associate           (Mar 2025)",
-  ],
-
-  currentlyLearning : ["System Design", "DevOps", "Gen AI"],
-  funFact           : "I turn coffee ☕ into AI-powered SaaS 🚀",
-  openTo            : "SDE | Full Stack | AI Engineer roles",
-  contact           : "udayapril22@gmail.com",
+  location  : "Modinagar, UP, India",
+  funFact   : "Coffee to AI SaaS in production",
+  openTo    : "SDE | Full Stack | AI Engineer",
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" style="border-radius:16px"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=310&lines=console.log(%22Hello+World%22)+%F0%9F%91%8B;const+ideas+%3D+buildWithAI()+%F0%9F%A7%A0;await+deploy(production)+%F0%9F%9A%80;git+push+origin+main+%E2%9C%85" alt="Code lines"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--            IMPACT METRIC BADGES ROW                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### ⚡ Impact at a Glance
+
+<br/>
+
+<img src="https://img.shields.io/badge/3-AI%20SaaS%20Shipped-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/100%2B-Real%20Users-39D353?style=for-the-badge&logo=peopledeck&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/400%2B-DSA%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/4-Cloud%20%26%20AI%20Certs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/15%2B-APIs%20Built-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/1st-IEEE%20Binary%20Battle-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0D1117"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--             WHAT I BUILD — THREE PILLARS                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🛠️ What I Build
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🧠 AI-Powered Products**
+
+Built 3 production SaaS platforms using OpenAI GPT, Gemini AI & DALL·E — serving 100+ real users with measurable impact.
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+**⚙️ Full Stack Systems**
+
+End-to-end MERN development — scalable REST APIs with JWT auth & RBAC, reactive React dashboards, TypeScript throughout.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+
+</td>
+<td align="center" width="33%">
+
+**☁️ Cloud Architecture**
+
+AWS & Azure certified. Production deployments with Git strategy, Agile/Scrum ceremonies & team collaboration.
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--           EDUCATION & CERTIFICATIONS STRIP                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 🎓 Education & Credentials
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/B.Tech_CSE-MIET_Meerut-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+
+**2022 – 2026 &nbsp;·&nbsp; CGPA: 8.2 / 10**
+
+Computer Science & Engineering with focus on full stack development, AI integration and cloud computing.
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/Minor_in_AI-IIT_Ropar-FF9900?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+
+**Nov 2024 &nbsp;·&nbsp; Indian Institute of Technology**
+
+AI minor covering machine learning, deep learning and applied AI engineering.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Aug_2025-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=161B22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Azure-AZ--900_Jul_2025-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=161B22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Azure_AI-AI--900_Apr_2025-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=161B22"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Salesforce-AI_Associate_Mar_2025-00A1E0?style=flat-square&logo=salesforce&logoColor=white&labelColor=161B22"/>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -89,7 +244,7 @@ const uday: Developer = {
 
 <div align="center">
 
-### 📊 At a Glance
+### 📊 Full Stats
 
 |  🏆 Achievements  |  ⚡ Competitive  |  🚀 Products  |  🎓 Education  |
 |:-----------------:|:---------------:|:-------------:|:--------------:|
@@ -579,7 +734,4 @@ $ echo "───── HALL OF ACHIEVEMENTS ─────"
 <img src="https://komarev.com/ghpvc/?username=UDaygupta12512&label=Profile+Views&color=58A6FF&style=flat"/>
 
 </div>
-
-
-
 

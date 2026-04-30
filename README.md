@@ -1,14 +1,18 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--               TOP WAVE + GLOWING HEADER                   -->
+<!--                  HEADER BANNER — FIXED                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0,0D1117,60,0A1628,100,0D1117&section=header&stroke=58A6FF&strokeWidth=1" width="100%"/>
+<!-- Full banner: name only, tall enough to breathe, no desc overlap -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Uday%20Gupta&fontSize=85&fontColor=58A6FF&color=0,050D1A,40,0A1F3A,70,061628,100,050D1A&stroke=1A3A6E&strokeWidth=1&animation=twinkling&fontAlignY=55" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Uday%20Gupta&fontSize=95&fontColor=58A6FF&animation=fadeIn&fontAlignY=55&desc=%E2%9C%A6%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect%20%E2%9C%A6&descSize=18&descAlignY=80&descColor=8B949E" width="100%"/>
+<!-- Tagline — separate element, full breathing room below banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=60&text=%E2%9C%A6%20Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect%20%E2%9C%A6&fontSize=17&fontColor=8B949E&color=0,050D1A,100,050D1A&animation=fadeIn" width="100%"/>
 
-<!-- Typing SVG — fully URL-safe -->
+<br/>
+
+<!-- Typing SVG — starts fresh below both banners -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=39D353&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Shipping+AI-powered+SaaS+products+%F0%9F%9A%80;MERN+%7C+TypeScript+%7C+OpenAI+%7C+AWS+%7C+Azure+%E2%9A%A1;Minor+in+AI+%40+IIT+Ropar+%7C+CSE+%40+MIET+%F0%9F%8E%93;1st+Place+%40+IEEE+Binary+Battle+2025+%F0%9F%8F%86;GSSoC+2025+%7C+SWOC+2025+%7C+Hacktoberfest+2024;100%2B+real+users+across+3+AI+SaaS+platforms+%E2%9C%A8;Open+to+SDE+%7C+Full+Stack+%7C+AI+Engineer+Roles" alt="Typing SVG"/>
 
 <br/><br/>
@@ -734,4 +738,3 @@ $ echo "───── HALL OF ACHIEVEMENTS ─────"
 <img src="https://komarev.com/ghpvc/?username=UDaygupta12512&label=Profile+Views&color=58A6FF&style=flat"/>
 
 </div>
-
